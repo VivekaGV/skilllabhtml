@@ -1,0 +1,14 @@
+.style{
+    margin: 20px;
+    border-width: 20px;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+th{
+    background-color: blue;
+}
+td{
+    color: aqua;
+}
